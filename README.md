@@ -14,11 +14,11 @@ Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
 - [x] **Formularz "Dodaj Zadanie"**
 - [ ] **Formularz "Filtrujący"**
-- [ ] **Formularz edycji/zamykania zadań**
+- [x] **Formularz edycji/zamykania zadań** (Do dogłębnego sprawdzenia)
 
 ## Kwerendy
 
-- [ ] **Kwerenda aktualizująca (Update)**
+- [x] **Kwerenda aktualizująca/edytująca (Update)**
 - [x] **Kwerenda usuwająca (Delete)**
 - [ ] **Kwerenda parametryczna**
 
