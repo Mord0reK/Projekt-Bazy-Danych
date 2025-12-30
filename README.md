@@ -29,6 +29,6 @@ Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
 ## Drobnostki
 
-- [ ] **Wymusić integralność referencyjną**
-- [ ] **Wypełnić danymi**
-- [ ] **Sprawdzić formatowanie**
+- [x] **Wymusić integralność referencyjną**
+- [x] **Wypełnić danymi**
+- [x] **Sprawdzić formatowanie**
