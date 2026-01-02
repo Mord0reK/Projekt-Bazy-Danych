@@ -3,12 +3,20 @@ Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
 # Lista rzeczy do zrobienia
 
+## Całkiem ważne
+
+- [ ] **Poprawienie palety kolorów**
+- [ ] **Pokolorwanie raportów, formularzy**
+- [ ] **Dodać komunikaty upominające przy usuwaniu osób/zadań** (np. Komunikat że przy usunięciu osób, usunięte zostaną wszystkie zadania do niego przypisane)
+- [ ] **Dodać 20 rekordów do głównej tabeli**
+- [ ] **Sprawdzenie pod względem wymagań całej bazy danych**
+- [ ] **Dodanie więcej tabel**
+
+
 ## Funkcjonalność
 
-- [ ] **Zrobić formularz logowania**
-- [ ] **Dodać makro logowania**
 - [x] **Ustawić autostart dla głównego formularza**
-- [ ] **Dodać funkcje do przycisków w głównym formularzu**
+- [x] **Dodać funkcje do przycisków w głównym formularzu**
 
 ## Formularze
 
@@ -24,11 +32,6 @@ Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
 ## Raporty
 
-- [x] **Raport 1: Lista zadań wg priorytetu**
+- [ ] **Raport 1: Lista zadań wg priorytetu** (Nie działa coś popsute jest)
 - [ ] **Raport 2: Raport dzienny**
 
-## Drobnostki
-
-- [x] **Wymusić integralność referencyjną**
-- [x] **Wypełnić danymi**
-- [x] **Sprawdzić formatowanie**
