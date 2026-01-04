@@ -7,10 +7,9 @@ Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
 - [ ] **Poprawienie palety kolorów**
 - [ ] **Pokolorwanie raportów, formularzy**
-- [ ] **Dodać komunikaty upominające przy usuwaniu osób/zadań** (np. Komunikat że przy usunięciu osób, usunięte zostaną wszystkie zadania do niego przypisane)
 - [ ] **Dodać 20 rekordów do głównej tabeli**
 - [ ] **Sprawdzenie pod względem wymagań całej bazy danych**
-- [ ] **Dodanie więcej tabel**
+- [ ] **Dodanie więcej tabel** (Jeśli trzeba)
 
 
 ## Funkcjonalność
