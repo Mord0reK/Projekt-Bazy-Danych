@@ -5,9 +5,9 @@ Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
 ## Całkiem ważne
 
-- [ ] **Poprawienie palety kolorów**
-- [ ] **Pokolorwanie raportów, formularzy**
-- [ ] **Dodać 20 rekordów do głównej tabeli**
+- [x] **Poprawienie palety kolorów**
+- [x] **Pokolorwanie raportów, formularzy**
+- [x] **Dodać 20 rekordów do głównej tabeli**
 - [ ] **Sprawdzenie pod względem wymagań całej bazy danych**
 - [ ] **Dodanie więcej tabel** (Jeśli trzeba)
 
