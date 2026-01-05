@@ -1,36 +1,37 @@
 # Projekt-Bazy-Danych
+
 Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
 # Lista rzeczy do zrobienia
 
 ## Całkiem ważne
 
-- [x] **Poprawienie palety kolorów**
-- [x] **Pokolorwanie raportów, formularzy**
-- [x] **Dodać 20 rekordów do głównej tabeli**
-- [ ] **Sprawdzenie pod względem wymagań całej bazy danych**
-- [ ] **Dodanie więcej tabel** (Jeśli trzeba)
+* \[x] **Poprawienie palety kolorów**
+* \[x] **Pokolorwanie raportów, formularzy**
+* \[x] **Dodać 20 rekordów do głównej tabeli**
+* \[ ] **Sprawdzenie pod względem wymagań całej bazy danych**
+* \[ ] **Dodanie więcej tabel** (Jeśli trzeba)
+
 
 
 ## Funkcjonalność
 
-- [x] **Ustawić autostart dla głównego formularza**
-- [x] **Dodać funkcje do przycisków w głównym formularzu**
+* \[x] **Ustawić autostart dla głównego formularza**
+* \[x] **Dodać funkcje do przycisków w głównym formularzu**
 
 ## Formularze
 
-- [x] **Formularz "Dodaj Zadanie"**
-- [ ] **Formularz "Filtrujący"**
-- [x] **Formularz edycji/zamykania zadań** (Do dogłębnego sprawdzenia)
+* \[x] **Formularz "Dodaj Zadanie"**
+* \[x] **Formularz "Filtrujący"**
+* \[x] **Formularz edycji/zamykania zadań** (Do dogłębnego sprawdzenia)
 
 ## Kwerendy
 
-- [x] **Kwerenda aktualizująca/edytująca (Update)**
-- [x] **Kwerenda usuwająca (Delete)**
-- [ ] **Kwerenda parametryczna**
+* \[x] **Kwerenda aktualizująca/edytująca (Update)**
+* \[x] **Kwerenda usuwająca (Delete)**
+* \[ ] **Kwerenda parametryczna (To na podstawie raportu)**
 
 ## Raporty
 
-- [ ] **Raport 1: Lista zadań wg priorytetu** (Nie działa coś popsute jest)
-- [ ] **Raport 2: Raport dzienny**
-
+* \[ ] **Raport 1: Lista zadań wg priorytetu** (Nie działa coś popsute jest)
+* \[ ] **Raport 2: Raport dzienny**
