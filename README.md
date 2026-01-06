@@ -2,7 +2,7 @@
 
 Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
-> [!WAŻNE]
+> [!WARNING]
 > Projekt został wykonany z wykorzystaniem pakietu Office w wersji 365 oraz 2013. Inne wersje nie zostały przetestowane
 
 # Lista rzeczy do zrobienia
