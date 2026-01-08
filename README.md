@@ -12,8 +12,8 @@ Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 * \[x] **Poprawienie palety kolorów**
 * \[x] **Pokolorwanie raportów, formularzy**
 * \[x] **Dodać 20 rekordów do głównej tabeli**
-* \[ ] **Sprawdzenie pod względem wymagań całej bazy danych**
-* \[ ] **Dodanie więcej tabel** (Jeśli trzeba)
+* \[x] **Sprawdzenie pod względem wymagań całej bazy danych**
+* \[x] **Dodanie więcej tabel** (Jeśli trzeba)
 
 
 
@@ -32,9 +32,9 @@ Projekt zaliczeniowy semestru 1 z Baz danych (Access)
 
 * \[x] **Kwerenda aktualizująca/edytująca (Update)**
 * \[x] **Kwerenda usuwająca (Delete)**
-* \[ ] **Kwerenda parametryczna (To na podstawie raportu)**
+* \[x] **Kwerenda parametryczna (To na podstawie raportu)**
 
 ## Raporty
 
-* \[ ] **Raport 1: Lista zadań wg priorytetu** (Nie działa coś popsute jest)
-* \[ ] **Raport 2: Raport dzienny**
+* \[x] **Raport 1: Lista zadań wg priorytetu**
+* \[x] **Raport 2: Raport dzienny** (W projekcie jest tygodniowy)
